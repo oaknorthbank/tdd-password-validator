@@ -1,0 +1,6 @@
+
+repository:
+  # See https://github.com/apps/settings for all available settings.
+  name: tdd-password-validator
+  description: null
+  topics: "squad::Deposits, mission::Deposits, product::Retail Deposits, environment::Sandbox"
